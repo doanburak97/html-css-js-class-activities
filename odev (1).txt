@@ -1,0 +1,81 @@
+cv.html
+
+!DOCTYPE html>
+
+<html>
+
+<head>
+
+	<title>CV</title>
+
+</head>
+
+<body>
+
+	<h1>CV</h1>
+
+	<hr>
+
+	<h2>16 Þubat 2019</h2>
+
+	
+
+	<img src="ben.jpg" alt="örnek resim" width="200" height="200">
+
+	<hr>
+
+	<a href="https://tr.linkedin.com/">Linkedin Account</a>
+
+	
+
+	<h2>Statment</h2>
+
+	
+
+	<link rel="stylesheet" href="ben.css">
+
+
+
+	<p>My name is Burak.I live in Istanbul.I work to study software language.Like a Java,Php,Html-Css</p>
+
+</body>
+
+</html>
+
+——————————————————-------------------------------------------------------
+
+Ben.css
+
+body{
+
+	background-color:yellow;
+
+	font-family: verdane;
+
+	font-size: 100%;
+
+}
+
+h1{
+
+	color:blue;
+
+}
+
+p{
+
+	color:white;
+
+	background-color: green;
+
+	font-family: courier;
+
+	font-size:160%;
+
+	border:1px solid powderblue;
+
+	padding: 30px;
+
+	margin: 50px;
+
+}
